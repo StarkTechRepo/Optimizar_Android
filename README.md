@@ -87,10 +87,10 @@ Configura manualmente tu dispositivo Android en modo de programador siguiendo es
 
 Las configuraciones mencionadas son compatibles con las siguientes versiones de Android:
 
-- **Desactivar Animaciones:** Android 4.0 (Ice Cream Sandwich) y versiones posteriores.
-- **Limitar Procesos en Segundo Plano:** Android 7.0 (Nougat) y versiones posteriores.
-- **Desactivar Ubicación en Segundo Plano:** Android 8.0 (Oreo) y versiones posteriores.
-- **Reducir Escala de DPI:** Android 7.0 (Nougat) y versiones posteriores.
+- **Desactivar Animaciones:** Android 4.0 y versiones posteriores.
+- **Limitar Procesos en Segundo Plano:** Android 7.0 y versiones posteriores.
+- **Desactivar Ubicación en Segundo Plano:** Android 8.0  y versiones posteriores.
+- **Reducir Escala de DPI:** Android 7.0 y versiones posteriores.
 
 ## Licencia
 
