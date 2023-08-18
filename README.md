@@ -92,11 +92,6 @@ Las configuraciones mencionadas son compatibles con las siguientes versiones de 
 - **Desactivar Ubicación en Segundo Plano:** Android 8.0 (Oreo) y versiones posteriores.
 - **Reducir Escala de DPI:** Android 7.0 (Nougat) y versiones posteriores.
 
-## Compatibilidad y Contribuciones
-
-Estas optimizaciones son compatibles con diversas versiones de Android, desde [Lista de versiones compatibles].
-Este repositorio se actualizará con nuevas optimizaciones y métodos. ¡Tus contribuciones son bienvenidas! Si tienes ideas para mejorar las configuraciones o deseas agregar nuevas optimizaciones, siente libre de crear "issues" o enviar solicitudes de extracción.
-
 ## Licencia
 
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
