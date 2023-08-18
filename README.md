@@ -1,4 +1,4 @@
-# Repositorio de Optimización de Android en Modo de Programador
+# Optimización de Android en Modo de Programador
 
 Este repositorio proporciona herramientas para optimizar tu dispositivo Android en modo de programador, mejorando su rendimiento y eficiencia. Las optimizaciones abarcan aspectos clave que influyen en la velocidad, capacidad de respuesta y duración de la batería de tu dispositivo.
 
