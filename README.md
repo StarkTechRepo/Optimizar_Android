@@ -25,12 +25,12 @@ Puedes optimizar tu dispositivo Android de dos formas:
 
 Configura manualmente tu dispositivo Android en modo de programador siguiendo estos pasos:
 
-1. **Configuración Manual de Optimizaciones desde el Modo de Programador:**
+- **Configuración Manual de Optimizaciones desde el Modo de Programador:**
    - En tu dispositivo Android, abre la aplicación "Configuración".
    - Busca y selecciona "Opciones de desarrollador" o "Programador".
 
    - **Desactivar Animaciones:**
-     - Encuentra las opciones de animación (como "Escala de animación de ventana", "Escala de animación de transición" y "Escala de duración del animador").
+     - Encuentra las opciones de animación (como "Scales de animación de ventana", "Scales de animación de transición" y "Scales de duración del animador").
      - Ajusta cada opción a "Desactivado" o a un valor bajo (por ejemplo, 0.5) según tus preferencias.
 
    - **Limitar Procesos en Segundo Plano:**
@@ -64,6 +64,21 @@ Configura manualmente tu dispositivo Android en modo de programador siguiendo es
    - **Reducir Escala de DPI:**
      - Busca la opción "Escala de DPI" o similar.
      - Ajusta la escala a un valor menor para obtener más espacio en pantalla y mayor legibilidad.
+
+- **Desactivar Datos Móviles Siempre Activos:**
+  - Activa las "Opciones de Desarrollador" siguiendo los pasos mencionados anteriormente.
+  - En "Opciones de Desarrollador", busca la configuración "Datos móviles siempre activos" y desactívala.
+  - Esto evitará que las aplicaciones utilicen datos móviles en segundo plano de manera constante, permitiéndote un mayor control sobre su uso.
+
+- **Habilitar Volumen Absoluto:**
+  - Activa las "Opciones de Desarrollador" como se explicó anteriormente.
+  - Dentro de "Opciones de Desarrollador", busca la configuración "Volumen Absoluto" y actívala.
+  - Esto permitirá tener un control independiente del volumen para los auriculares y el altavoz, lo que facilita los ajustes según tus necesidades.
+
+- **Desactivar Forzar Modo Oscuro:**
+  - Activa las "Opciones de Desarrollador" según las instrucciones mencionadas.
+  - Encuentra la opción "Nocturno" dentro de "Opciones de Desarrollador" y desactívala.
+  - Al desactivar esta opción, permitirás que las aplicaciones sigan el modo oscuro según su configuración individual.
 
 2. Reinicia tu dispositivo nuevamente para aplicar todas las optimizaciones manualmente desde el Modo de Programador.
 
