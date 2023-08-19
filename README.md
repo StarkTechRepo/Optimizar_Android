@@ -92,6 +92,46 @@ Las configuraciones mencionadas son compatibles con las siguientes versiones de 
 - **Desactivar Ubicación en Segundo Plano:** Android 8.0  y versiones posteriores.
 - **Reducir Escala de DPI:** Android 7.0 y versiones posteriores.
 
+# ROMs para Optimizar tu Experiencia en Android
+
+## Paranoid Android
+
+**Repositorio GitHub**: [Paranoid Android](https://github.com/AOSPA)
+
+Paranoid Android es una ROM personalizada excepcionalmente diseñada para dispositivos Android, con el propósito principal de brindar a los usuarios una experiencia de usuario distintiva y enriquecedora que supera a las ROMs oficiales proporcionadas por los fabricantes. Esta ROM es un referente en términos de personalización, estabilidad y rendimiento. A lo largo de su evolución, Paranoid Android ha introducido innovadoras características que han dejado huella, como el revolucionario modo "Hover" que permite la aparición de ventanas emergentes de aplicaciones sin importar cuál esté en primer plano. Explora nuestro repositorio para descubrir cómo nuestra comunidad de desarrolladores sigue redefiniendo la forma en que los usuarios interactúan con sus dispositivos Android.
+
+## Pixel Extended
+
+**Repositorio GitHub**: [Pixel Extended](https://github.com/PixelExtended)
+
+Pixel Extended es una ROM personalizada diseñada para capturar la esencia de la experiencia proporcionada por los dispositivos Pixel de Google en el mundo de los dispositivos Android. Estamos comprometidos en llevar esa sensación distintiva a una variedad más amplia de dispositivos, ofreciendo no solo una interfaz de usuario similar, sino también las características y funciones que los usuarios asocian con la línea Pixel. Además de preservar la estética visual, Pixel Extended a menudo agrega un toque personal con características adicionales y mejoras de personalización que se ajustan a las preferencias individuales de cada usuario. Explora nuestro repositorio para experimentar la fusión entre la elegancia de Pixel y la potencia de la personalización extendida.
+
+## Pixel Experience
+
+**Repositorio GitHub**: [Pixel Experience](https://github.com/PixelExperience)
+
+Pixel Experience es la culminación de nuestra pasión por emular la experiencia brindada por los dispositivos Pixel de Google. Nuestra ROM personalizada busca no solo imitar el aspecto estético de los dispositivos Pixel, sino también la fluidez y el desempeño que los usuarios adoran. Nuestra comunidad de desarrolladores trabaja incansablemente para ofrecer una experiencia cercana a la que se experimenta con dispositivos Pixel, y esto incluye tanto la interfaz de usuario distintiva como la selección cuidadosamente curada de aplicaciones y características. Explora nuestro repositorio para sentir la familiaridad de los dispositivos Pixel en tu propio dispositivo Android y descubre cómo podemos mejorar tu experiencia móvil cotidiana.
+
+## Instrucciones de Instalación
+
+1. **Desbloqueo del Bootloader**: Asegúrate de desbloquear el bootloader de tu dispositivo siguiendo las instrucciones del fabricante.
+
+2. **Instalación de Recovery Personalizado**: Flashea un recovery personalizado (por ejemplo, TWRP) en tu dispositivo para permitir la instalación de ROMs personalizadas.
+
+3. **Copia de Seguridad**: Realiza una copia de seguridad completa de tus datos importantes antes de proceder.
+
+4. **Descarga de la ROM**: Elige la ROM personalizada de tu preferencia y descárgala desde el enlace proporcionado.
+
+5. **Flasheo de la ROM**: Reinicia en el recovery personalizado y selecciona la opción para flashear la ROM desde el archivo descargado.
+
+6. **Wipe y GApps**: Realiza un wipe de datos, caché y dalvik-cache antes o después de flashear la ROM. Si es necesario, flashea las aplicaciones de Google (GApps).
+
+7. **Reinicio**: Reinicia tu dispositivo después de flashear la ROM y las GApps.
+
+8. **Configuración Inicial**: Configura tu dispositivo según tus preferencias y disfruta de una experiencia optimizada.
+
+Recuerda que la instalación de ROMs personalizadas puede variar según el dispositivo. Consulta las instrucciones específicas proporcionadas por la comunidad de desarrollo para tu dispositivo antes de comenzar. ¡Explora y personaliza tu dispositivo Android con estas emocionantes ROMs!
+
 ## Licencia
 
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
